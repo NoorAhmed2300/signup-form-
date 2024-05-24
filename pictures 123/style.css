@@ -1,0 +1,17 @@
+body{
+   background-image: url(https://images.pexels.com/photos/20248430/pexels-photo-20248430/free-photo-of-shark-and-fish-in-ocean.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    font-weight: bold;
+}
+.error{
+    color: pink;
+}
+div{
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+}
+input{
+    background-color: gray;
+    border: 3px solid black;
+}
